@@ -4,4 +4,4 @@
 
 
 # Final Dashboard
-<img src="assests/goodreads_dashboard.png" width=50% height=50%>
+<img src="assests/goodreads-dashboard.png" width=50% height=50%>
